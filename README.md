@@ -6,11 +6,11 @@ Teller supported 3,037 institutions (as of 10/6/2023)
 
 Plaid supported 10,364 institutions of which 5,091 banks, 2,601 credit unions, 35+ broker-dealers, and 6,211 other institutions, including financial services platforms e.g. Alight, UBS One Source, Voya Retirement, Empower Retirement etc. (as of 10/12/2023)
 
-	| Fieldname | Description |
+| Fieldname | Description |
 | ----------- | ----------- |
 | Date | Financial reporting period end date |
 | FDIC certificate number | Unique number assigned to each depository institution by the Federal Deposit Insurance Corporation (FDIC) |
-|Primary ABA routing number | Number devised by the American Bankers Association (ABA) to identify the specific financial institution which is responsible for the payment of a negotiable instrument |
+| Primary ABA routing number | Number devised by the American Bankers Association (ABA) to identify the specific financial institution which is responsible for the payment of a negotiable instrument |
 | Financial institution name | Legal name of the financial institution |
 | Address | Address of the financial institution |
 | City | City of the financial institution |
@@ -26,4 +26,3 @@ Plaid supported 10,364 institutions of which 5,091 banks, 2,601 credit unions, 3
 | URLs to accept or solicit deposits | Websites to accept or solicit deposits |
 | Teller | Unknown – coverage not confirmed; Missing – coverage missing based on exact name/url match not found on https://gist.github.com/seanmor5/6fbeef0daee6ee8951b10c30764f2cb1#file-missing_institutions-csv |
 | Plaid | Supported – coverage confirmed based on exact name match found on Plaid; Not supported – coverage missing based on exact name match not found on Plaid |
-
