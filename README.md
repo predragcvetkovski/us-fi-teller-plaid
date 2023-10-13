@@ -1,11 +1,13 @@
 # us-fi-teller-plaid
 Supported financial institutions on teller &amp; plaid
 
-As of 6/30/2023 there were ==4,697 financial institutions (FDIC insured)== in the US, excluding the number of federally insured credit unions 4,712 (as of 3/21/2023).
+As of 6/30/2023 there were == 4,697 financial institutions (FDIC insured) == in the US, excluding the number of federally insured credit unions 4,712 (as of 3/21/2023).
 Teller supported 3,037 institutions (as of 10/6/2023)
 
 Plaid supported 10,364 institutions of which 5,091 banks, 2,601 credit unions, 35+ broker-dealers, and 6,211 other institutions, including financial services platforms e.g. Alight, UBS One Source, Voya Retirement, Empower Retirement etc. (as of 10/12/2023)
 
+	| Fieldname | Description |
+| ----------- | ----------- |
 | Date | Financial reporting period end date |
 | FDIC certificate number | Unique number assigned to each depository institution by the Federal Deposit Insurance Corporation (FDIC) |
 |Primary ABA routing number | Number devised by the American Bankers Association (ABA) to identify the specific financial institution which is responsible for the payment of a negotiable instrument |
