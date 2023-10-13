@@ -1,5 +1,5 @@
 # us-fi-teller-plaid
-Supported financial institutions on Teller &amp; Plaid
+# H1 Supported financial institutions on Teller &amp; Plaid
 
 > As of 6/30/2023 there were 4,697 financial institutions (FDIC insured) in the US, excluding the number of federally insured credit unions 4,712 (as of 3/21/2023).
 
