@@ -26,4 +26,4 @@ Supported financial institutions on Teller &amp; Plaid
 | URL | Website the financial institution |
 | URLs to accept or solicit deposits | Websites to accept or solicit deposits |
 | Teller | Unknown – coverage not confirmed; Missing – coverage missing based on exact name/url match not found on [Teller](https://gist.github.com/seanmor5/6fbeef0daee6ee8951b10c30764f2cb1#file-missing_institutions-csv) |
-| Plaid | Supported – coverage confirmed based on exact name match found on Plaid; Not supported – coverage missing based on exact name match not found on [Plaid](https://github.com/predragcvetkovski/us-fi-teller-plaid/blob/main/plaid_institutions.csv)https://github.com/predragcvetkovski/us-fi-teller-plaid/blob/main/plaid_institutions.csv |
+| Plaid | Supported – coverage confirmed based on exact name match found on Plaid; Not supported – coverage missing based on exact name match not found on [Plaid](https://github.com/predragcvetkovski/us-fi-teller-plaid/blob/main/plaid_institutions.csv) |
